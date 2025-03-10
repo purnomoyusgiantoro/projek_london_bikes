@@ -14,4 +14,4 @@
 https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data
 
 #link dashboard
-https://public.tableau.com/app/profile/purnomo.yusgiantoro/viz/londonbikesrides/Dashboard1#1
+https://public.tableau.com/views/londonbikesrides/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
