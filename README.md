@@ -12,3 +12,6 @@
 "season" - category field meteorological seasons: 0-spring ; 1-summer; 2-fall; 3-winter.
 
 https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data
+
+#link dashboard
+https://public.tableau.com/app/profile/purnomo.yusgiantoro/viz/londonbikesrides/Dashboard1#1
