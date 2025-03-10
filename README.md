@@ -10,3 +10,5 @@
 "is_holiday" - boolean field - 1 holiday / 0 non holiday
 "is_weekend" - boolean field - 1 if the day is weekend
 "season" - category field meteorological seasons: 0-spring ; 1-summer; 2-fall; 3-winter.
+
+https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data
